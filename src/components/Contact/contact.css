@@ -1,0 +1,24 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css');
+
+.contact{
+    color: gray;
+    position: relative;
+    z-index: 100;
+    top: 11%;
+    left: 40.0%;
+    margin: 10px 0px;
+text-shadow: 1px 3px 20px rgb(0, 0, 0);
+    font-size: 48px;
+}
+a{
+    text-decoration: none;
+    background-color: black;
+
+}
+
+.list{
+    list-style: none;
+    font-size: 24px;
+    position: relative;
+    left: -5%;
+}

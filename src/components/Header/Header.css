@@ -1,0 +1,35 @@
+.Heading{
+    color: gray;
+    position: relative;
+    top: -500px;
+    left: 37%;
+text-shadow: 1px 3px 20px rgb(0, 0, 0);
+    font-size: 48px;
+}
+.ft-des{
+    margin: 40px 0px;
+    font-size: 20px;
+    position: relative;
+    right: 230px;
+
+}
+
+.Features{
+    color: gray;
+    position: relative;
+    z-index: 100;
+    top: 11%;
+    left: 44.5%;
+    margin: 20px 0px;
+text-shadow: 1px 3px 20px rgb(0, 0, 0);
+    font-size: 48px;
+}
+
+.head{
+    z-index: 0;
+    position: relative;
+    top: -60px;
+    opacity: 30%;
+    background-size:contain;
+    width: 100%;
+}
