@@ -15,6 +15,16 @@ a{
     background-color: black;
 
 }
+@media screen and (max-width:460px) {
+    .contact {
+        position: relative;
+        left: 05%;
+        font-size: 24px;
+    }
+    .list{
+        font-size: 12px;
+    }
+}
 
 .list{
     list-style: none;

@@ -19,3 +19,12 @@ color: rgb(197, 197, 197);
     z-index: 100;
 display: flex;
 }
+
+@media screen and (max-width:460px) {
+    .Nav-links{
+        display: none;
+    }
+    .nav-list{
+        display: none;
+    }
+}

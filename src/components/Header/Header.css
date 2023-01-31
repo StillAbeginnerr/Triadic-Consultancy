@@ -33,3 +33,17 @@ text-shadow: 1px 3px 20px rgb(0, 0, 0);
     background-size:contain;
     width: 100%;
 }
+
+@media screen and (max-width:460px) {
+    .Features{
+        position: relative;
+    z-index: 100;
+    top: 11%;
+    left: 21.5%;
+    }
+    .ft-des{
+        position: relative;
+        left: -13%;
+        font-size: 16px;
+    }
+}

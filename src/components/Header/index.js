@@ -12,8 +12,8 @@ function Header() {
     <div className='Features'>
         Features
         <div className='ft-des'>
-   A Full Stack Development Team which creates smooth and scalable applications
-        </div>
+   <p>A Full Stack Development Team which creates smooth and scalable applications
+        </p></div>
     </div>
     </>
   )
